@@ -1,1 +1,1 @@
-# Compendium_Mathematical-Methods
+# Compendium of Mathematical Methods
